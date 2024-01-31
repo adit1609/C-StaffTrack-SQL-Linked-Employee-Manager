@@ -1,4 +1,4 @@
-Author - Aaditya Ranjan
+Author - Aaditya Ranjan.
 Developed a robust Windows application using C# to efficiently manage employee details.
 Integrated SQL Server to store and manage employee data securely and reliably.
 Designed a user-friendly interface for easy navigation and seamless user experience.
