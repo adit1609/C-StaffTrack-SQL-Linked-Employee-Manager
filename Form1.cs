@@ -16,7 +16,7 @@ namespace NMTronis_Aaditya
     {
         public FF()
         {
-            InitializeComponent();
+            
         }
 
         private void label1_Click(object sender, EventArgs e)
